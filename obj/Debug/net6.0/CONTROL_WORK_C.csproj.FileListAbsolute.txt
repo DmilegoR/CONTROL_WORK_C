@@ -1,0 +1,15 @@
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\bin\Debug\net6.0\CONTROL_WORK_C.exe
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\bin\Debug\net6.0\CONTROL_WORK_C.deps.json
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\bin\Debug\net6.0\CONTROL_WORK_C.runtimeconfig.json
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\bin\Debug\net6.0\CONTROL_WORK_C.dll
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\bin\Debug\net6.0\CONTROL_WORK_C.pdb
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\obj\Debug\net6.0\CONTROL_WORK_C.csproj.AssemblyReference.cache
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\obj\Debug\net6.0\CONTROL_WORK_C.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\obj\Debug\net6.0\CONTROL_WORK_C.AssemblyInfoInputs.cache
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\obj\Debug\net6.0\CONTROL_WORK_C.AssemblyInfo.cs
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\obj\Debug\net6.0\CONTROL_WORK_C.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\obj\Debug\net6.0\CONTROL_WORK_C.dll
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\obj\Debug\net6.0\refint\CONTROL_WORK_C.dll
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\obj\Debug\net6.0\CONTROL_WORK_C.pdb
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\obj\Debug\net6.0\CONTROL_WORK_C.genruntimeconfig.cache
+E:\GeekBrains\Информационная Безопасность\02 I четверть\03_Итоговая контрольная работа по основному блоку\CONTROL_WORK_C\obj\Debug\net6.0\ref\CONTROL_WORK_C.dll
